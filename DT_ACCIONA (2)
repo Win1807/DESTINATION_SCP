@@ -1,0 +1,14 @@
+#Password=<< Existing password/certificate removed on export >>
+#
+#Sun May 03 10:51:00 UTC 2020
+Type=HTTP
+Authentication=BasicAuthentication
+WebIDEUsage=odata_abap,dev_abap,ui5_execute_abap,bsp_execute_abap,odata_gen
+Name=DT_ACCIONA
+WebIDEEnabled=true
+URL=https\://fiori\:44300
+jco.destination.expiration_time=300
+ProxyType=OnPremise
+sap-client=100
+User=XAGONZALEZ
+WebIDESystem=DT_ACCIONA
